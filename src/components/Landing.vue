@@ -32,27 +32,27 @@
             </div>
             <div class="mt-4 grid grid-flow-row gap-4 md:grid-cols-12 md:grid-rows-6">
                 <div
-                    class="col-span-4 row-span-3 grid place-content-center rounded-lg bg-white p-4 shadow-md sm:h-48"
+                    class="col-span-4 row-span-3 grid h-52 place-content-center rounded-lg bg-white p-4 shadow-md sm:h-48"
                 >
                     06
                 </div>
                 <div
-                    class="col-span-4 row-span-3 grid place-content-center rounded-lg bg-white p-4 shadow-md sm:h-48"
+                    class="col-span-4 row-span-3 grid h-52 place-content-center rounded-lg bg-white p-4 shadow-md sm:h-48"
                 >
                     07
                 </div>
                 <div
-                    class="col-span-4 row-span-3 grid place-content-center rounded-lg bg-white p-4 shadow-md sm:h-48"
+                    class="col-span-4 row-span-3 grid h-52 place-content-center rounded-lg bg-white p-4 shadow-md sm:h-48"
                 >
                     08
                 </div>
                 <div
-                    class="col-span-4 row-span-3 grid place-content-center rounded-lg bg-white p-4 shadow-md sm:h-48"
+                    class="col-span-4 row-span-3 grid h-52 place-content-center rounded-lg bg-white p-4 shadow-md sm:h-48"
                 >
                     09
                 </div>
                 <div
-                    class="col-span-4 row-span-3 grid place-content-center rounded-lg bg-white p-4 shadow-md sm:h-48"
+                    class="col-span-4 row-span-3 grid h-52 place-content-center rounded-lg bg-white p-4 shadow-md sm:h-48"
                 >
                     10
                 </div>
